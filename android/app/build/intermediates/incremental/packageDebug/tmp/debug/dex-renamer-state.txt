@@ -1,0 +1,4 @@
+#Sun Mar 01 20:13:47 IST 2020
+base.0=/Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

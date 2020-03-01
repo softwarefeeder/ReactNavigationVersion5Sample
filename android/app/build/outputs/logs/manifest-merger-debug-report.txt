@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-community_masked-view] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/474d5ed3a1afee5e14d349ea917c8803/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7e2d4c55038845a17fb707f55f47697b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/01fda18fd36ca8d1e5a316dfe7602825/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/351cf52f113e1909b8cf257286a2627a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/218fecdb7d56db0760cafe7c438e1721/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/eb0d4014abe8a77021fa0a3a2747a22d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e6a1e912940d2857f96fea7c5ef1f711/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/4213e0fd058f2f9c653b4334a0a57720/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6b532a688d221c76631812a3580a0815/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/0dd43f1111907484047b7d48b8385954/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/3738c2e9c98d0b8d562b8ac82659b3f2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/961885eba3081e61893c0e678309e7fd/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7171d94714b634ff4824b0566134797b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/94bd906cd2a7289bcb42ef8d75b012f1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/307e959ddde6ddfcd954d25e333ae6b8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6906e8d2ed29bf022308dacbe71f4b57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/8541dbbdf8cbc3371b5f3173160f91e3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/1f81f8c2cec7c00429e5054b7bb3d376/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/8830323f46e31fdd1c043ac16d3c1fb9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/457a22196f11d964e2086e037cf50753/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/d241775c411a625931344f92dd5a2383/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/014faca076137354a0fa14280581f3d2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e95a5c3c06e8c60f8216b93948a5bbf7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/261070b00b61daf18cb59f0c5a75add3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6343c35f124e72c405bd039a1a97bbab/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/1e80afb8d3fc62fd9154f6ccc17c9adb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/3c9c6fbca882a5d53f166c11e3877334/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/a75cd33efcd72addc77d07468f4c44b6/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/23c85a81ce38c5dcd3db29be2256c909/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e414463c602c2e3f097aa7ab7e9a0113/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/c8ac8cfaf63978e3dc0410a67b46e739/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/4d02933de3ca851de8f192ad705d9bc5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/9c72673338050ac1f4b15c1afac99063/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7a966edbe77448c60c18c7934e4da974/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/16c04c18c1ba40f929fe9e1198334f14/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/d238c7f902fce9a949f120f8df448749/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/9efa47aa3446d5bd6d1d7c7da61cbd2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/bd061387ec4dca171ce68f37c0b4d4b4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e220adf6ba8d55886be27399947611a6/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:2:3-40
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:2:3-40
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/474d5ed3a1afee5e14d349ea917c8803/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/474d5ed3a1afee5e14d349ea917c8803/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/01fda18fd36ca8d1e5a316dfe7602825/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/01fda18fd36ca8d1e5a316dfe7602825/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/961885eba3081e61893c0e678309e7fd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/961885eba3081e61893c0e678309e7fd/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/a75cd33efcd72addc77d07468f4c44b6/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/a75cd33efcd72addc77d07468f4c44b6/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e414463c602c2e3f097aa7ab7e9a0113/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e414463c602c2e3f097aa7ab7e9a0113/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/a75cd33efcd72addc77d07468f4c44b6/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactnavigationversion5.MainActivity
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_masked-view] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/ramasamy/Desktop/ReactNavigationVersion5/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/474d5ed3a1afee5e14d349ea917c8803/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/474d5ed3a1afee5e14d349ea917c8803/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7e2d4c55038845a17fb707f55f47697b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7e2d4c55038845a17fb707f55f47697b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/01fda18fd36ca8d1e5a316dfe7602825/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/01fda18fd36ca8d1e5a316dfe7602825/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/351cf52f113e1909b8cf257286a2627a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/351cf52f113e1909b8cf257286a2627a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/218fecdb7d56db0760cafe7c438e1721/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/218fecdb7d56db0760cafe7c438e1721/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/eb0d4014abe8a77021fa0a3a2747a22d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/eb0d4014abe8a77021fa0a3a2747a22d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e6a1e912940d2857f96fea7c5ef1f711/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e6a1e912940d2857f96fea7c5ef1f711/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/4213e0fd058f2f9c653b4334a0a57720/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/4213e0fd058f2f9c653b4334a0a57720/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6b532a688d221c76631812a3580a0815/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6b532a688d221c76631812a3580a0815/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/0dd43f1111907484047b7d48b8385954/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/0dd43f1111907484047b7d48b8385954/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/3738c2e9c98d0b8d562b8ac82659b3f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/3738c2e9c98d0b8d562b8ac82659b3f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/961885eba3081e61893c0e678309e7fd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/961885eba3081e61893c0e678309e7fd/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7171d94714b634ff4824b0566134797b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7171d94714b634ff4824b0566134797b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/94bd906cd2a7289bcb42ef8d75b012f1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/94bd906cd2a7289bcb42ef8d75b012f1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/307e959ddde6ddfcd954d25e333ae6b8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/307e959ddde6ddfcd954d25e333ae6b8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6906e8d2ed29bf022308dacbe71f4b57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6906e8d2ed29bf022308dacbe71f4b57/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/8541dbbdf8cbc3371b5f3173160f91e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/8541dbbdf8cbc3371b5f3173160f91e3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/1f81f8c2cec7c00429e5054b7bb3d376/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/1f81f8c2cec7c00429e5054b7bb3d376/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/8830323f46e31fdd1c043ac16d3c1fb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/8830323f46e31fdd1c043ac16d3c1fb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/457a22196f11d964e2086e037cf50753/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/457a22196f11d964e2086e037cf50753/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/d241775c411a625931344f92dd5a2383/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/d241775c411a625931344f92dd5a2383/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/014faca076137354a0fa14280581f3d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/014faca076137354a0fa14280581f3d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e95a5c3c06e8c60f8216b93948a5bbf7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e95a5c3c06e8c60f8216b93948a5bbf7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/261070b00b61daf18cb59f0c5a75add3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/261070b00b61daf18cb59f0c5a75add3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6343c35f124e72c405bd039a1a97bbab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/6343c35f124e72c405bd039a1a97bbab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/1e80afb8d3fc62fd9154f6ccc17c9adb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/1e80afb8d3fc62fd9154f6ccc17c9adb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/3c9c6fbca882a5d53f166c11e3877334/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/3c9c6fbca882a5d53f166c11e3877334/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/a75cd33efcd72addc77d07468f4c44b6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/a75cd33efcd72addc77d07468f4c44b6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/23c85a81ce38c5dcd3db29be2256c909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/23c85a81ce38c5dcd3db29be2256c909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e414463c602c2e3f097aa7ab7e9a0113/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e414463c602c2e3f097aa7ab7e9a0113/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/c8ac8cfaf63978e3dc0410a67b46e739/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/c8ac8cfaf63978e3dc0410a67b46e739/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/4d02933de3ca851de8f192ad705d9bc5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/4d02933de3ca851de8f192ad705d9bc5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/9c72673338050ac1f4b15c1afac99063/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/9c72673338050ac1f4b15c1afac99063/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7a966edbe77448c60c18c7934e4da974/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/7a966edbe77448c60c18c7934e4da974/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/16c04c18c1ba40f929fe9e1198334f14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/16c04c18c1ba40f929fe9e1198334f14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/d238c7f902fce9a949f120f8df448749/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/d238c7f902fce9a949f120f8df448749/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/9efa47aa3446d5bd6d1d7c7da61cbd2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/9efa47aa3446d5bd6d1d7c7da61cbd2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/bd061387ec4dca171ce68f37c0b4d4b4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/bd061387ec4dca171ce68f37c0b4d4b4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e220adf6ba8d55886be27399947611a6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ramasamy/.gradle/caches/transforms-2/files-2.1/e220adf6ba8d55886be27399947611a6/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/ramasamy/Desktop/ReactNavigationVersion5/android/app/src/debug/AndroidManifest.xml:5:22-75
